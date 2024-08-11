@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Banjir2</string>
+    <string name="news_image">\n</string>
+    <string name="bookmark" />
+    <string name="bookmark_button_description">\n</string>
+    <string name="share">\n</string>
+    <string-array name="font_array">
+        <item>Default</item>
+        <item>Sans Serif</item>
+        <item>Serif</item>
+    </string-array>
+
+</resources>
